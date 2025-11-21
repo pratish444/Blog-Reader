@@ -5,13 +5,9 @@ The app uses an offline-first approach, infinite scroll pagination, and Material
 
 ---
 
-## Screenshots
-
-| Blog List                                    | Blog Detail                                      | Offline / Loading State                                 |
-|---------------------------------------------|--------------------------------------------------|--------------------------------------------------------|
-| ![Blog List](app/src/test/blogs.jpeg)       | ![Blog Detail](app/src/test/blog%20detail.jpeg)  | ![Offline Blogs](app/src/test/offline%20blogs.jpeg)    |
-
----
+| Blog List | Blog Detail | Offline |
+|----------|-------------|---------|
+| <img src="app/src/blogs.jpeg" width="210"/> | <img src="app/src/blog%20detail.jpeg" width="210"/> | <img src="app/src/offline%20blogs.jpeg" width="210"/> |
 
 ## Features
 
