@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistoryState">
+    <option name="chatSessions" value="{&quot;101d656b-924e-45ca-a049-c66d1bffd61b&quot;:{&quot;id&quot;:&quot;101d656b-924e-45ca-a049-c66d1bffd61b&quot;,&quot;name&quot;:&quot;Casual Greeting&quot;,&quot;timestamp&quot;:1763702175302,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;text&quot;:&quot;\u003cuser_query\u003e\nhi\n\u003c/user_query\u003e&quot;}]},{&quot;role&quot;:&quot;assistant&quot;,&quot;content&quot;:[]}]}}" />
+  </component>
+</project>
